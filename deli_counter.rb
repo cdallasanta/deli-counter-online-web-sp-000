@@ -12,6 +12,8 @@
 #     puts lineArr.join
 #   end
 # end
+require 'pry'
+
 
 def line(katz_deli)
   binding.pry
